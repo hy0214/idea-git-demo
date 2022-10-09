@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello gitHub hot-fix two!!!");
         System.out.println("hello gitHub idea-git-demo");
         System.out.println("hello gitHub http");
+        System.out.println("hello gitHub http2");
     }
 }
